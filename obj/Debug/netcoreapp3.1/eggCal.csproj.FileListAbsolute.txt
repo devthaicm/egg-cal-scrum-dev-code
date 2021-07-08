@@ -1,0 +1,13 @@
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.exe
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.deps.json
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.runtimeconfig.json
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.runtimeconfig.dev.json
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.dll
+E:\Coding\C#\EggCal\eggCal\bin\Debug\netcoreapp3.1\eggCal.pdb
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.csprojAssemblyReference.cache
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.AssemblyInfoInputs.cache
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.AssemblyInfo.cs
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.csproj.CoreCompileInputs.cache
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.dll
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.pdb
+E:\Coding\C#\EggCal\eggCal\obj\Debug\netcoreapp3.1\eggCal.genruntimeconfig.cache
