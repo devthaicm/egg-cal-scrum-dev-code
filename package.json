@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "ex2.js",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.7",
+    "nodemon": "^2.0.9"
+  },
+  "scripts": {
+    "dev": "nodemon ex2.js"
+  }
+}
